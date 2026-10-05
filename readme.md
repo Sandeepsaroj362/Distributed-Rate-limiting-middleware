@@ -115,8 +115,8 @@ Monitoring with Prometheus/Grafana
 
 ## Author
 
-Atul Pal
+Sandeep
 
-GitHub: https://github.com/atulpal02
+GitHub: https://github.com/Sandeepsaroj362
 
-LinkedIn: https://linkedin.com/in/atulpal02
+LinkedIn: https://www.linkedin.com/in/sandeep-61b209255/
